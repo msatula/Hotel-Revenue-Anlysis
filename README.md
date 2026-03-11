@@ -29,7 +29,7 @@ Multiple visualization tools were used to represent and summarize the data. Seve
 2. Open the file in Power BI
 
 ## Video
-
+https://github.com/user-attachments/assets/b11b8b8b-7722-475f-9b5e-e2cc175e027b
 
 ## Sources
 - Data used: <a href="https://github.com/msatula/Hotel-Revenue-Anlysis/blob/main/hotel_revenue_historical_full-2.xlsx">Data download</a>
