@@ -16,7 +16,7 @@ First, I used SQL Server Management Studio (SSMS) to host and connect to my own 
 
 After importing the csv data files into SSMS, I wrote SQL queries using the UNION and JOIN operators to combine the several data tables. Here, it was also determined how revenue would be calculated as a new column in the data. 
 
-Then, the database was connected to Power BI and imported using the previously written SQL queries. Power BI's data transformation tool was also used to add the aforementioned new column to represent revenue earned.
+Then, the database was connected to Power BI and imported using the previously written SQL queries. Power BI's data transformation tool was also used to add the aforementioned new column, representing revenue earned.
 
 Multiple visualization tools were used to represent and summarize the data. Several statistics were displayed via trend graphs over time, such as average daily revenue, total nights spent, and car spaces. A line chart was used to plot revenue over time. A summary matrix was added to show data by year and by hotel type. A donut graph showcasing revenue per hotel type was also added. Then, I added several interactive filters to filter data by date ranges, the hotel type, and country. 
 
