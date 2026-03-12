@@ -25,8 +25,9 @@ Multiple visualization tools were used to represent and summarize the data. Seve
 - More timely data -- The dataset contains data from only a subset of 2020, which could result in misinterpretation.
 
 ## To open
-1. Download `HotelRevenue.pbix`
+1. Download <a href="https://github.com/msatula/Hotel-Revenue-Analysis/blob/main/HotelRevenue.pbix">`HotelRevenue.pbix`</a>
 2. Open the file in Power BI
+- OR: Download and open the PDF version (will not be interactable): <a href="https://github.com/msatula/Hotel-Revenue-Analysis/blob/main/HotelRevenue.pdf">`HotelRevenue.pdf`</a>
 
 ## Video
 https://github.com/user-attachments/assets/b11b8b8b-7722-475f-9b5e-e2cc175e027b
