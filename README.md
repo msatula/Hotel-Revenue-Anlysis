@@ -1,5 +1,5 @@
 # Hotel Revenue Data Analysis Dashboard
-This is an interactive data report & visualization of hotel revenue using data collected from 2018 to 2020, hosted on my own SQL database. It served as my introduction to developing my own database and creating dashboards in Power BI. This project was created by following along with a tutorial YouTube video, linked below.
+This is an interactive data report & visualization of hotel revenue using data collected from 2018 to 2020, hosted on my own SQL database. It served as my introduction to developing my own database and creating dashboards in Power BI.
 
 ## Tech 
 - `SQL`
